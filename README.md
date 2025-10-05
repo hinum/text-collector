@@ -1,6 +1,7 @@
-# ludumdare
+# text collector
 
-This template should help get you started developing with Vue 3 in Vite.
+A game made in vue for the ludum dare combo and boxicons for icons and graphics.
+
 
 ## Recommended IDE Setup
 
