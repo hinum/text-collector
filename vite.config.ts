@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     tailwind()
   ],
-  base: "/html/15165563",
+  base: "/text-collector",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
